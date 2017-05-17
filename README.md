@@ -1,4 +1,4 @@
-# GapChi
+# GP
 A Bot Source For GP  (New Tg)
 
 # Install - دستور نصب
