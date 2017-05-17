@@ -3,7 +3,7 @@ A Bot Source For GP  (New Tg)
 
 # Install - دستور نصب
 <pre>
-git clone https://github.com/SinaXhpm/GapChi && cd gp && chmod +x install.sh && ./install.sh
+git clone https://github.com/AFBoTS/gp && cd gp && chmod +x install.sh && ./install.sh
 </pre>
  Launch: ./sinchi.sh
 # Sudo
